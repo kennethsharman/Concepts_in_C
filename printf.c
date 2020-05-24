@@ -10,7 +10,6 @@
 
 int main() 
 {
-
 	char firstName[] = "Ken";
 	int age = 33;
 	double decimal_num = 5.3;

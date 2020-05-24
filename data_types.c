@@ -10,7 +10,6 @@
 
 int main() 
 {
-
 	int num = 13;
 	const int FIRST = 1;
 	double decimal_num = 2.22;
